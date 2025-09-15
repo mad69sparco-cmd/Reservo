@@ -12,7 +12,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMar
 
 # Конфигурация
 BOT_TOKEN = "8374588436:AAHI2l-IlioRcD1DT1bjBUv3GoYT-WCQdrw"
-ADMIN_ID = 8218782038  # Замените на ваш Telegram ID (узнать можно у @userinfobot)
+ADMIN_ID = 123456789  # Замените на ваш Telegram ID (узнать можно у @userinfobot)
 DB_NAME = "bookings.db"
 
 # Настройка логирования
